@@ -1,0 +1,15 @@
+/home/runner/Talking-Tom-1/obj/Debug/netcoreapp6.0/Program.csproj.AssemblyReference.cache
+/home/runner/Talking-Tom-1/obj/Debug/netcoreapp6.0/Program.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/Talking-Tom-1/obj/Debug/netcoreapp6.0/Program.AssemblyInfoInputs.cache
+/home/runner/Talking-Tom-1/obj/Debug/netcoreapp6.0/Program.AssemblyInfo.cs
+/home/runner/Talking-Tom-1/obj/Debug/netcoreapp6.0/Program.csproj.CoreCompileInputs.cache
+/home/runner/Talking-Tom-1/bin/Debug/netcoreapp6.0/Program
+/home/runner/Talking-Tom-1/bin/Debug/netcoreapp6.0/Program.deps.json
+/home/runner/Talking-Tom-1/bin/Debug/netcoreapp6.0/Program.runtimeconfig.json
+/home/runner/Talking-Tom-1/bin/Debug/netcoreapp6.0/Program.dll
+/home/runner/Talking-Tom-1/bin/Debug/netcoreapp6.0/ref/Program.dll
+/home/runner/Talking-Tom-1/bin/Debug/netcoreapp6.0/Program.pdb
+/home/runner/Talking-Tom-1/obj/Debug/netcoreapp6.0/Program.dll
+/home/runner/Talking-Tom-1/obj/Debug/netcoreapp6.0/ref/Program.dll
+/home/runner/Talking-Tom-1/obj/Debug/netcoreapp6.0/Program.pdb
+/home/runner/Talking-Tom-1/obj/Debug/netcoreapp6.0/Program.genruntimeconfig.cache
